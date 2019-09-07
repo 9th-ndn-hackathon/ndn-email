@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ndn mail</string>
+    <string name="prompt_password">password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="prompt_email">Email</string>
+
 </resources>
